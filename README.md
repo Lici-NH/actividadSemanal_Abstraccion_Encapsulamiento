@@ -1,0 +1,2 @@
+# actividadSemanal_Abstraccion_Encapsulamiento
+Programacion orientada a objetos 2025
